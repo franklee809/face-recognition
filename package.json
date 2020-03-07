@@ -20,5 +20,8 @@
     "@tensorflow/tfjs-node": "^1.5.2",
     "canvas": "^2.6.1",
     "face-api.js": "^0.22.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
   }
 }
